@@ -1,0 +1,19 @@
+{
+  "name": "mamaducc",
+  "version": "1.0.0",
+  "description": "Discord moderation paired with a backend for custom clientside tooling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevliteral/mamaducc-js.git"
+  },
+  "author": "Devin Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdevliteral/mamaducc-js/issues"
+  },
+  "homepage": "https://github.com/webdevliteral/mamaducc-js#readme"
+}

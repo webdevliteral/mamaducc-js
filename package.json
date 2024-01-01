@@ -1,0 +1,25 @@
+{
+  "name": "mamaducc",
+  "version": "1.0.0",
+  "description": "A Discord moderation tool hosted backend for optional frontend management (ie a React app, Blazor client, etc.)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevliteral/mamaducc-js.git"
+  },
+  "keywords": [
+    "discord",
+    "moderation",
+    "admin",
+    "backend"
+  ],
+  "author": "Devin Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdevliteral/mamaducc-js/issues"
+  },
+  "homepage": "https://github.com/webdevliteral/mamaducc-js#readme"
+}
